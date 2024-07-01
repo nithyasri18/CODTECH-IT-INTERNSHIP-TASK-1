@@ -10,7 +10,7 @@ Overview of the project:
 User Profiles: The User class represents a user with their name, username, profile picture, friends, followers, posts, notifications, and privacy settings.
 Friend Connections: Users can send and accept friend requests, and maintain a list of their friends.
 Messaging: The program does not include a direct messaging feature, but notifications can be used to simulate messaging functionality.
-Notifications: Users receive notifications for friend requests, new posts from friends, and other activities.
+Notifications: Users receive notifications for friend requests, new posts from friends, and other activities. 
 News Feed: Users can retrieve a news feed of the latest posts from their friends, sorted by timestamp.
 Multimedia Sharing: The program does not include multimedia sharing functionality, but it can be extended to support it.
 Advanced Functionalities:
